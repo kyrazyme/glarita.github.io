@@ -2,9 +2,9 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: Glen Larita Jr | Professional Portfolio
+title: Kyra Ikeda | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://kyrazyme.github.io/"
+url: "https://kyrazyme.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
@@ -13,7 +13,7 @@ baseurl: ""
 bio-page-label: Resume
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
-theme-home: theme-home-builtin-3.html
+theme-home: theme-home-builtin-2.html
 theme-projects: theme-projects-builtin-1.html
 theme-essays: theme-essays-builtin-1.html
 theme-bio: theme-bio-builtin-1.html
@@ -24,4 +24,3 @@ rouge-theme: igorpro
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
-
