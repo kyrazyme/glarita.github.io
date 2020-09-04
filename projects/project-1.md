@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Hospital GUI
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-11-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - GUI
+  - ICS
+summary: Created my first GUI as a class assignment for my Intro to Computer Science II class in 2019.
 ---
 
 <div class="ui small rounded images">
