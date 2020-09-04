@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="Overthinking" src="../images/Overthinking.jpg">
+
 
 *Am I good enough?*
 
