@@ -22,3 +22,5 @@ The ability to create using our conscience is something that seems so simple, bu
 
 
 ## Another Tool in the Box
+
+I grew up being a hardcore skateboarder, yelling "skate and destroy" while riding down the sidewalk with my long hair flowing in the wind. Although skateboarders tend to have a certain stigma associated with them, what I love about skateboarding is the ability to express your individuality with your set of tricks and deciding how you want to apply them. Whether its trying a grind down a rail in a way that no one has seen, or just mastering your tricks with near perfect consistency and execution. The reason I bring my past skateboarding ways up is because I think of coding very similarly to skateboarding.
