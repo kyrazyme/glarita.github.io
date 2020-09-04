@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny right spaced image" src="../images/Overthinking.jpg">
+<img class="Overthinking" src="../images/Overthinking.jpg">
 
 *Am I good enough?*
 
