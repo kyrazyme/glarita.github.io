@@ -21,7 +21,7 @@ The ability to create using our conscience is something that seems so simple, bu
 
 
 
-## In the context of programming
+## Another Tool in the Box
 
 In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
