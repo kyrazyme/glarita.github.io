@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Start of a new Arc
+title: The Start of a New Arc
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/overthinking.jpg">
 
 *Am I good enough?*
 
